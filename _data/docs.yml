@@ -1,6 +1,6 @@
 - title: Preface
   docs:
-  - 
+  -
   - contributing
   - faq
 
@@ -15,6 +15,7 @@
   docs:
   - extend
   - extend/start
+  - extend/distribution
   - extend/internationalize
 
 - title: Translating Flarum
